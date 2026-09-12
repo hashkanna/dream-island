@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-12T13:48:38.930694+00:00",
+  "checked_at": "2026-09-12T14:41:16.276385+00:00",
   "arcade": {
     "complete_round": true,
     "route": [
@@ -34,7 +34,27 @@
     "star_sprinkles_tested": false,
     "multic_used": false
   },
-  "release": "Local preview only; not submitted or published",
+  "release": "Public temporary Cloudflare demo; YouTube upload in progress; no official hackathon submission.",
   "production_build": "passed",
-  "client_bundle_api_key_scan": "clear"
+  "client_bundle_api_key_scan": "clear",
+  "safari": {
+    "main_route": "/",
+    "public_url": "https://controller-unions-olympus-newark.trycloudflare.com",
+    "live_public_session": true,
+    "complete_album": true,
+    "postcards": 3,
+    "wish_tested": "Bubble party",
+    "wish_visual_result": "Bubbles visibly appeared after the request in two recorded live sessions.",
+    "manual_end_verified": true,
+    "end_frame_race_fixed": true,
+    "recording_saved": true,
+    "recording_seconds": 95.433008,
+    "recording_resolution": "1920x1080",
+    "recording_audio": "AAC stereo 48 kHz, original synthesized music and effects",
+    "model_source_resolution": "1664x960",
+    "recording_format": "Actual received world video and live gameplay HUD composed to a fixed canvas.",
+    "no_desktop_or_microphone_recording": true,
+    "characters_drift": true
+  },
+  "private_github": "https://github.com/hashkanna/dream-island"
 }
