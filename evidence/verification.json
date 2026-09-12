@@ -70,5 +70,23 @@
     "ai_disclosure": true,
     "copyright_check": "No issues found",
     "thumbnail": "Auto-generated thumbnail 3; custom thumbnails require phone verification"
+  },
+  "input_visibility_revision": {
+    "code_built": true,
+    "private_commit": "2f98681",
+    "new_live_session_chunks": 229,
+    "inputs": [
+      "forward",
+      "right",
+      "photo",
+      "Bubble party",
+      "photo labels"
+    ],
+    "camera_observation": "The view changed from facing the rainbow bridge to the side garden after forward and right inputs.",
+    "new_recording_in_browser": true,
+    "new_file_exported": false,
+    "new_video_published": false,
+    "full_album_ending_in_recording_verified": false,
+    "blocker": "Automated recording download did not save a new file. User asked to save Download my adventure to Downloads."
   }
 }
