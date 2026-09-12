@@ -2,6 +2,8 @@
 
 A tiny photo safari in a living, AI-generated garden. Wander, make a wish, and collect three little wonders: a tiny friend, a dreamy view, and a little magic.
 
+[Play the temporary demo](https://controller-unions-olympus-newark.trycloudflare.com) · [Watch the public backup demo](https://www.youtube.com/watch?v=5DNgQyBvSn4)
+
 Built for WORLDS London. The main experience at `/` and `/dream` uses **Reactor LingBot World 2** to generate the explorable world live. Movement and wishes are sent to the model. The camera captures real received frames; players choose where each discovery belongs in their album. There is no automatic image judging.
 
 ## Play
@@ -38,7 +40,7 @@ Set `PUBLIC_APP_ORIGIN` in `.env.local` to the printed HTTPS origin, then restar
 
 LingBot World 2 generates the visible world from an original starting image, persistent movement commands, and updated wish prompts. The interface, music, recording layout, and postcard album are coded. There is no authored navigable 3D scene in the safari. Character consistency and precise navigation can drift. A command acknowledgement confirms receipt, not its visual outcome.
 
-A prior live prototype received 171 chunks and captured two postcards. Movement changed the view, but the cloud character changed into a different creature. The gamified version's fresh verification is recorded in `evidence/verification.json` as checks complete.
+The complete safari was played through twice. Three postcards were collected, and bubbles visibly appeared after a Bubble party wish. The public link connected to a real session after an initial capacity error. The final 95-second playthrough was recorded with game audio, published publicly, and verified playing at 1080p on YouTube. Character drift remains visible. See `evidence/verification.json`.
 
 The earlier conventional hopping prototype is archived at `/arcade` and is not the hackathon entry. No Multic integration is claimed.
 

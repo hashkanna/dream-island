@@ -34,7 +34,7 @@
     "star_sprinkles_tested": false,
     "multic_used": false
   },
-  "release": "Public temporary Cloudflare demo; YouTube upload in progress; no official hackathon submission.",
+  "release": "Public temporary Cloudflare demo and public YouTube video. Source repository remains private. No official hackathon submission.",
   "production_build": "passed",
   "client_bundle_api_key_scan": "clear",
   "safari": {
@@ -54,7 +54,21 @@
     "model_source_resolution": "1664x960",
     "recording_format": "Actual received world video and live gameplay HUD composed to a fixed canvas.",
     "no_desktop_or_microphone_recording": true,
-    "characters_drift": true
+    "characters_drift": true,
+    "phone_viewport": "390x844",
+    "phone_horizontal_overflow": false
   },
-  "private_github": "https://github.com/hashkanna/dream-island"
+  "private_github": "https://github.com/hashkanna/dream-island",
+  "youtube": {
+    "url": "https://www.youtube.com/watch?v=5DNgQyBvSn4",
+    "visibility": "public",
+    "channel": "@kannappansirchabesan8577",
+    "channel_id": "UCgWbMmQ_kH0FloMojCXpa-Q",
+    "publication_confirmed": true,
+    "playback_verified": true,
+    "quality_observed": "Auto (1080p HD)",
+    "ai_disclosure": true,
+    "copyright_check": "No issues found",
+    "thumbnail": "Auto-generated thumbnail 3; custom thumbnails require phone verification"
+  }
 }
