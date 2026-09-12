@@ -63,6 +63,7 @@ export function DreamIsland(){
   sound.current?.unlock();sound.current?.music(true);sound.current?.welcome();active.current=true;
   setError('');setStatus('connecting');setGenerated(false);setChunks(0);setLogs([]);setWish('');setSeconds(110);const op=++session.current;
   const m=new LingbotWorld2Model();model.current=m;
+  let lastModelAction='';m.onState(state=>{if(op===session.current&&state.current_action!==lastModelAction){lastModelAction=state.current_action;log('Model controls: '+lastModelAction);}});
   m.on('trackReceived',(name,track)=>{if(op===session.current&&name==='main_video'&&video.current){video.current.srcObject=new MediaStream([track]);void video.current.play().catch(()=>{});}});
   m.on('error',e=>{if(op===session.current)log(friendly(e.message));});
   m.on('statusChanged',state=>{if(state==='disconnected'&&op===session.current){setGenerated(false);setStatus('idle');active.current=false;deadline.current=0;sound.current?.music(false);log('Session disconnected');}});
