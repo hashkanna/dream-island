@@ -7,7 +7,7 @@
 ## Playthrough
 
 - Start with Record visit enabled if capturing a backup. Wait for the live badge.
-- Walk forward. Find a cute creature and take a postcard. Choose A tiny friend.
+- Click Walk forward and allow the six-second action to finish. Find a cute creature and take a postcard. Choose A tiny friend.
 - Look right or left, discover a new view, and take a second postcard. Choose A dreamy view.
 - Make a wish: giant flowers, bubbles, or a star shower. Let the world respond. Photograph a surprise; choose A little magic.
 - Show the completed album and download it. End the visit.
@@ -20,7 +20,7 @@ Do not promise exact physics, permanent world memory, character consistency, or 
 
 ## Capacity fallback
 
-If Reactor cannot allocate a server, play the local MP4 or share the unlisted YouTube backup. Introduce it as a **recorded playthrough of a live session**. The recorder composes actual received world video and live game state; it is not a desktop screen recording. No staged replacement video or simulated model output is used.
+If Reactor cannot allocate a server, play the local MP4 or share the public YouTube backup. Introduce it as a **recorded playthrough of a live session**. The recorder composes actual received world video, live game state, and visible cues for actual inputs; it is not a desktop screen recording. No staged replacement video or simulated model output is used.
 
 ## Submission positioning
 

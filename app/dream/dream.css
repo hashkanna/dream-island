@@ -7,3 +7,5 @@
 .dream-window{width:100%}.dream-backup{color:#a083ad;text-decoration:none;font-size:9px;white-space:nowrap}@media(max-width:760px){.dream-intro h1{font-size:32px;letter-spacing:-1.7px}.dream-window:not(.is-live){min-height:370px}}
 
 .album-complete .album-new{display:block;margin:12px auto 0;background:transparent;border:0;box-shadow:none;font-size:8px;color:#ad96b5;padding:7px}
+
+.dream-pad button[aria-pressed="true"]{background:#af86c2;color:white;box-shadow:0 0 0 4px #d2b8df;transform:translateY(-3px)}

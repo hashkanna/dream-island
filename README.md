@@ -9,13 +9,13 @@ Built for WORLDS London. The main experience at `/` and `/dream` uses **Reactor 
 ## Play
 
 1. Press **Let’s wander**.
-2. Tap a direction or use the arrow keys to explore. Each action persists for four seconds unless stopped.
+2. Tap a direction or use the arrow keys to explore. Each action persists for six seconds unless stopped.
 3. Ask for stars, giant flowers, or bubbles. Changes are generated and may take a moment or differ from the request.
 4. Press the camera or Space. Label the postcard, complete the three-slot album, and download it.
 
 An original music-box loop and synthesized sound effects play after user interaction. The music button mutes all game audio. Postcards stay in this browser and can be downloaded individually or as an album.
 
-**Record visit** captures the live world, gameplay state, and game audio into a fixed 1920×1080 composition. It does not capture your desktop, microphone, or other apps. Enable it before starting; after ending the visit, download the recording. The model's source video is 1664×960; the recording layout is 1080p, not native 1080p model footage.
+**Record visit** captures the live world, gameplay state, and game audio into a fixed 1920×1080 composition. Visible control highlights, pointer pulses, and CLICK/KEY labels are driven by actual gameplay input events. It does not capture your desktop, microphone, or other apps. Enable it before starting; after ending the visit, download the recording. The model's source video is 1664×960; the recording layout is 1080p, not native 1080p model footage.
 
 ## Run locally
 
