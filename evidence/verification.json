@@ -34,7 +34,7 @@
     "star_sprinkles_tested": false,
     "multic_used": false
   },
-  "release": "Public temporary Cloudflare demo and public YouTube video. Source repository remains private. No official hackathon submission.",
+  "release": "Public temporary Cloudflare demo, public YouTube backup, public GitHub source, and submitted Devpost entry.",
   "production_build": "passed",
   "client_bundle_api_key_scan": "clear",
   "safari": {
@@ -58,7 +58,6 @@
     "phone_viewport": "390x844",
     "phone_horizontal_overflow": false
   },
-  "private_github": "https://github.com/hashkanna/dream-island",
   "youtube": {
     "url": "https://www.youtube.com/watch?v=5DNgQyBvSn4",
     "visibility": "public",
@@ -88,5 +87,23 @@
     "new_video_published": false,
     "full_album_ending_in_recording_verified": false,
     "blocker": "Automated recording download did not save a new file. User asked to save Download my adventure to Downloads."
+  },
+  "public_github": "https://github.com/hashkanna/dream-island",
+  "devpost": {
+    "url": "https://devpost.com/software/dream-island-1to34n",
+    "submission_id": 1179613,
+    "status": "submitted",
+    "steps_completed": "5/5",
+    "track": "Reactor - Best Use of Real-Time Interactive Models",
+    "terms_acceptance_user_confirmed": true
+  },
+  "repository_audit": {
+    "gitleaks_version": "8.30.1",
+    "commits_scanned": 6,
+    "historical_blobs_known_key_check": 43,
+    "remaining_findings": 0,
+    "false_positive": "Non-secret browser storage identifier dream-island-album-v1",
+    "current_tracked_archive_scan": "passed",
+    "visibility": "public"
   }
 }

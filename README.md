@@ -2,7 +2,7 @@
 
 A tiny photo safari in a living, AI-generated garden. Wander, make a wish, and collect three little wonders: a tiny friend, a dreamy view, and a little magic.
 
-[Play the temporary demo](https://controller-unions-olympus-newark.trycloudflare.com) · [Watch the public backup demo](https://www.youtube.com/watch?v=5DNgQyBvSn4)
+[Devpost submission](https://devpost.com/software/dream-island-1to34n) · [Play the temporary demo](https://controller-unions-olympus-newark.trycloudflare.com) · [Watch the public backup demo](https://www.youtube.com/watch?v=5DNgQyBvSn4)
 
 Built for WORLDS London. The main experience at `/` and `/dream` uses **Reactor LingBot World 2** to generate the explorable world live. Movement and wishes are sent to the model. The camera captures real received frames; players choose where each discovery belongs in their album. There is no automatic image judging.
 
