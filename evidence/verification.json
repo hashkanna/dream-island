@@ -1,0 +1,40 @@
+{
+  "checked_at": "2026-09-12T13:48:38.930694+00:00",
+  "arcade": {
+    "complete_round": true,
+    "route": [
+      "Home",
+      "Peach Patch",
+      "Daisy Daydream",
+      "Moonmallow",
+      "Lavender Lounge",
+      "Strawberry Snooze",
+      "Mint Meadow",
+      "Home"
+    ],
+    "friends_rescued": 3,
+    "homecoming_score": 341,
+    "core_world_model": false,
+    "rendering": "Three.js geometry and game logic",
+    "desktop_viewport": "1280x800",
+    "mobile_viewport": "390x844"
+  },
+  "dream": {
+    "model": "reactor/lingbot-world-2",
+    "live_connection": true,
+    "generated_chunks_observed": 171,
+    "commands_sent": [
+      "forward",
+      "look right",
+      "idle"
+    ],
+    "visual_observation": "Generated garden continued; views changed after movement requests. Original cloud morphed into a larger fantasy creature. Exact steering fidelity is not established.",
+    "postcards_captured_in_ui": 2,
+    "session_closed": true,
+    "star_sprinkles_tested": false,
+    "multic_used": false
+  },
+  "release": "Local preview only; not submitted or published",
+  "production_build": "passed",
+  "client_bundle_api_key_scan": "clear"
+}
